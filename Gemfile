@@ -30,7 +30,7 @@ gem 'jquery-rails'
 
 # To use Jbuilder templates for JSON
 # gem 'jbuilder'
-
+gem 'thin'
 # Use unicorn as the app server
 # gem 'unicorn'
 
